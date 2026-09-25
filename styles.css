@@ -76,12 +76,7 @@ a:focus-visible{
 .c4 {
   --c: #c77d0a;
 }
-.c5 {
-  --c: #2f6fdb;
-}
-.c6 {
-  --c: #4d7c3a;
-}
+
 .publicacion {
   background: var(--card);
   border: 1px solid var(--line);
